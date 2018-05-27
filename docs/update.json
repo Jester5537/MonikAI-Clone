@@ -1,0 +1,12 @@
+{
+  "ProgramVersion": 19,
+  "ResponsesVersion": 10,
+  "ProgramURL": "https://github.com/Jester5537/MonikAI-Clone/raw/master/docs/MonikAI.exe",
+  "ResponseURLs": [
+    "https://raw.githubusercontent.com/Jester5537/MonikAI-Clone/master/docs/application.csv",
+    "https://raw.githubusercontent.com/Jester5537/MonikAI-Clone/master/docs/google.csv",
+    "https://raw.githubusercontent.com/Jester5537/MonikAI-Clone/master/docs/startup.csv",
+    "https://raw.githubusercontent.com/Jester5537/MonikAI-Clone/master/docs/website.csv",
+    "https://raw.githubusercontent.com/Jester5537/MonikAI-Clone/master/docs/idle_dialogue.csv"
+  ]
+}
